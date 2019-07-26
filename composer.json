@@ -1,6 +1,7 @@
 {
     "name": "skewt/free-mobile-sms",
     "description": "Send SMS throught the Free Mobile API",
+    "license": "MIT",
     "authors": [
         {
             "name": "Noan Perrot",
